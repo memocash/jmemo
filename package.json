@@ -1,0 +1,21 @@
+{
+  "name": "jmemo",
+  "version": "0.0.1",
+  "description": "Memo Bitcoin Client",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/memocash/jmemo"
+  },
+  "author": "Jason Chavannes",
+  "license": "MIT",
+  "dependencies": {
+    "bip32": "^2.0.5",
+    "bip39": "^3.0.2",
+    "@bitcoin-dot-com/bitcoincashjs2-lib": "^4.1.0",
+    "querystring": "^0.2.0"
+  }
+}

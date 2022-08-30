@@ -1,7 +1,7 @@
-## jMemo
+## UVHWSAT
 
 ```sh
-cd ./jmemo
+cd ./uvhwsat
 npm install -g webpack webpack-cli
 webpack
 ```

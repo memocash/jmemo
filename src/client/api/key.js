@@ -1,6 +1,6 @@
 var request = require("../request");
 var util = require("../../wallet/util");
-
+ 
 module.exports = {
     /**
      * @param {string} apiToken
